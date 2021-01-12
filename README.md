@@ -1,2 +1,2 @@
 # ecommerceDiseno
-Proyecto final para materia de Diseño
+Link de la pagina: https://rofsrepoleved.github.io/ecommerceDiseno2/
