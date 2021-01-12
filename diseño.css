@@ -1,0 +1,67 @@
+#parrallax{
+    background-image: url(img/homeimage4.png);
+    height: 500px;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#landing{
+    background-image: url(img/one.png);
+    height: 450px;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#landing2{
+    background-image: url(img/two.png);
+    height: 450px;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#cafeLanding{
+    background-image: url(img/header.jpg);
+    height: 250px;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-family: Cosmic Sans MS, Cosmic Sans, Cursive;
+    color: black;
+    font-size: 50px;
+}
+
+.colorNavbar{
+    background-color: whitesmoke;
+}
+
+.textNavColor{
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.borde {
+    cursor: pointer;
+}
+
+.borde:hover {
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.cursor{
+    cursor: pointer;
+}
